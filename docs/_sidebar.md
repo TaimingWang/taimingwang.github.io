@@ -1,3 +1,3 @@
 - Test    
-   - [CONFGAD](confg.md)  
-   - [Theme](theme.md)
+   - [CONFGAD](confg)  
+   - [Theme](theme)
