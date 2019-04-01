@@ -1,8 +1,8 @@
 # Roy Model and Heckman correction
 
-    ## Integrated task 1
+## Integrated task 1
 　　
-    ### Reading passage
+### Reading passage
 
 　　Altruism is a type of behavior in which an animal sacrifices its own interest for that of another animal or group of animals. Altruism is the opposite of selfishness; individuals performing altruistic acts gain nothing for themselves.
 
@@ -10,9 +10,9 @@
 
 　　In fact, many species of animals appear willing to sacrifice food, or even their life, to assist other members of their group. The meerkat, which is a mammal that dwells in burrows in grassland areas of Africa, is often cited as an example. In groups of meerkats, an individual acts as a sentinel, standing guard and looking out for predators while the others hunt for food or eat food they have obtained. If the sentinel meerkat sees a predator such as a hawk approaching the group, it gives an alarm cry alerting the other meerkats to run and seek shelter. By standing guard, the sentinel meerkat gains nothing—it goes without food while the others eat, and it places itself in grave danger. After it issues an alarm, it has to flee alone, which might make it more at risk to a predator, since animals in groups are often able to work together to fend off a predator. So the altruistic sentinel behavior helps ensure the survival of other members of the meerkat｡ｯs group.
 
-　　### Listening: Please listen to og-integrated test 1.mp3
+### Listening: Please listen to og-integrated test 1.mp3
 
-　　## Sample answer:
+## Sample answer:
 
 　　The lecture completely refutes the passage. It is said in the lecture that, the perceived acts of altruism are nothing more than sneaky methods of gaining advantage for one｡ｯs self, contrary to the belief in the passage that sentinels risk their lives for the cause of the whole group.
 
