@@ -1,3 +1,3 @@
+* [导论](introduction)
 * [Configuration](confg)  
-* [Themes](theme)
 * [TOEFL](toefl)
