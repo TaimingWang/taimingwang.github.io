@@ -1,1 +1,1 @@
-* [theme](theme.md)
+- [Theme](theme.md)
