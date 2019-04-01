@@ -19,7 +19,18 @@
     loadSidebar: true,
     name: 'Lecture',
     autoHeader: true,
-    // basePath: '/path/',
+    executeScript: true,
+    MaxLevel:4,
+    search: {
+        noData: {
+          '/': 'No results!'
+        },
+        paths: 'auto',
+        placeholder: {
+          '/': 'Search'
+        }
+      },
+    formatUpdated: '{MM}/{DD} {HH}:{mm}',
     subMaxLevel: 2
   }
 </script>
