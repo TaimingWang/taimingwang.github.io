@@ -1,2 +1,2 @@
-- Getting started
-    - [Themes](theme.md)
+* [Home](/)
+* [Theme](theme.md)
