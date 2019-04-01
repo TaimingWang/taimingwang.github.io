@@ -6,4 +6,4 @@ Roy's original paper deals with workers selecting into fishing and hunting profe
 x = [a**3: for a in range(0,19)]
 ```
 
-$$\sum_{i=0}^{\infty}$$
+<!-- $$\sum_{i=0}^{\infty}$$ -->
