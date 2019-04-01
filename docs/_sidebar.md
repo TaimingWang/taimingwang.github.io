@@ -1,2 +1,2 @@
-- [Configuration](confg)  
-- [Themes](theme)
+* [Configuration](confg)  
+* [Themes](theme)
