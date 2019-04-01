@@ -7,5 +7,6 @@
 !.nojekyll
 !*.js
 !*.svg
-
+!*.min.js
+!*.min.css
 !*/
