@@ -1,2 +1,2 @@
 * [Home](/)
-* [Theme](theme.md)
+* [Theme](/theme.md)
