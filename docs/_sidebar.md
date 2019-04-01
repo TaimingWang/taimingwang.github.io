@@ -1,2 +1,2 @@
 - Getting started
-    - [Themes](themes.md)
+    - [Themes](theme.md)
