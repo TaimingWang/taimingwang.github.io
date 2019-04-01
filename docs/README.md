@@ -6,4 +6,4 @@ Roy's original paper deals with workers selecting into fishing and hunting profe
 <h1>支持代码高亮</h1>
 ```
 
-$$\sum_{i=0}^{\infty}$$
+<!-- $$\sum_{i=0}^{\infty}$$ -->
