@@ -2,4 +2,4 @@
     - [导论](introduction)
     - [Configuration](confg)  
     - [TOEFL](toefl)
-    - [Temp](markdown)
+    - [投影和预测](projection)
