@@ -24,5 +24,10 @@
 <script src="/docs/lib/search.min.js"></script>
 <script src="/docs/lib/docsify-katex.js"></script>
 <link rel="stylesheet" href="/docs/lib/katex.min.css"/>
+<script>
+    if (typeof navigator.serviceWorker !== 'undefined') {
+      navigator.serviceWorker.register('sw.js')
+    }
+  </script>
 </body>
 </html>
