@@ -4,16 +4,7 @@
 * 首选参考书：James D. Hamilton： Time Series Analysis，Princeton University Press，1994
 * 成绩：平时作业和考勤占40%，期末60%。
 
-map()是 python 内置的高阶函数，它接收一个函数 f 和一个 list，并通过把函数 f 依次作用在 list 的每个元素上，得到一个新的object并返回。（python2返回列表，Python3返回迭代对象）
 
-map（）的使用方法形如map(f(x),Itera)，它有两个参数，第一个参数为某个函数，第二个为可迭代对象。
-```python
-def square(x):
-    return x ** 2
-map(square, [1,2,3,4,5])
-map(lambda x: x ** 2, [1, 2, 3, 4, 5])
-map(lambda x, y: x + y, [1, 3, 5, 7, 9], [2, 4, 6, 8, 10])
-```
 
 关于lambda函数
 
