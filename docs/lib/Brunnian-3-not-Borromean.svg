@@ -10,4 +10,6 @@ H173.205081A100,100 0 0,1 173.205081,100Z"/></defs>
 <use xlink:href="#Loop" stroke-width="50" stroke="rgb(255,0,0)"/></g>
 <g transform="rotate(120)"><use xlink:href="#Loop"/>
 <use xlink:href="#Loop" stroke-width="50" stroke="rgb(0,255,0)"/></g>
-</g></svg>
+</g>
+<rect x="-2000%" y="-2000%" height="4000%" width="4000%" fill="white"/>
+</svg>
