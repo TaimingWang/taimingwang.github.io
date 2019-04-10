@@ -9,4 +9,5 @@
 !*.svg
 !*.min.js
 !*.min.css
+!*.pdf
 !*/
