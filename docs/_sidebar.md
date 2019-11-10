@@ -1,5 +1,0 @@
-- 基础
-    - [导论](introduction)
-    - [Configuration](confg)  
-    - [TOEFL](toefl)
-    - [投影和预测](projection)

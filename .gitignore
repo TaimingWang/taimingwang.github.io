@@ -2,6 +2,9 @@
 
 !.gitignore
 !*.css
+!*.woff
+!*.ttf
+!*.eot
 !*.md
 !*.html
 !.nojekyll
