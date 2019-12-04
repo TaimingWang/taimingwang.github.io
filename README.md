@@ -1,12 +1,12 @@
-# Taiming Wang
+# taimingwang.github.io: my homepage
 
-School of Economics, Renmin University of China
+the homepage contains following parts:
 
-## Teaching
-[example link][docs]
+Index link to *cv* and *teaching*. 
+
+CV folder has pdf version of resume. In cv folder I shall directly compile pdf from .tex, but ignore .tex file when push to github.
+
+All papers should link to Researchgate or publisher. Another pdf file is needed in my website.
 
 
 
-
-[docs]: ./docs/README.md "Title"
-[cv]: ./cv/cv.md "Title"
