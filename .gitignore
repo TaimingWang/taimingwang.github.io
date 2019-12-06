@@ -13,4 +13,5 @@
 !*.min.js
 !*.min.css
 !*.pdf
+!*.jpg
 !*/
