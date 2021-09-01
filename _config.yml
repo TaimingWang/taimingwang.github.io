@@ -71,8 +71,8 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/TaimingWang/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+    - label: "E-mail"
+      icon: "fab fa-fw fa-mail-bulk"
       url: "https://instagram.com/"
 
 footer:
@@ -89,17 +89,17 @@ footer:
 
 defaults:
   # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-  # _pages
+  # - scope:
+  #     path: ""
+  #     type: posts
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     read_time: true
+  #     comments: true
+  #     share: true
+  #     related: true
+  # # _pages
   - scope:
       path: "_pages"
       type: pages
