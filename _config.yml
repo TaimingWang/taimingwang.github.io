@@ -73,8 +73,8 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/TaimingWang/"
     - label: "E-mail"
-      icon: "fab fa-fw fa-envelope"
-      url: "https://instagram.com/"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:taimingwang@ruc.edu.cn"
 
 footer:
   links:
@@ -84,9 +84,7 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/TaimingWang/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+
 
 defaults:
   # _posts
