@@ -58,11 +58,12 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Taiming Wang"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "School of Economics, Renmin University of China."
+  name: "Taiming Wang"
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: "School of Economics, Renmin University of China."
+  location: "Beijing, China"
   links:
-    - label: "Website"
+    - label: "Homepage"
       icon: "fas fa-fw fa-link"
       url: "https://taimingwang.github.io/"
     - label: "Twitter"
@@ -88,18 +89,18 @@ footer:
       url: "https://instagram.com/"
 
 defaults:
-  # _posts
-  # - scope:
-  #     path: ""
-  #     type: posts
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     read_time: true
-  #     comments: true
-  #     share: true
-  #     related: true
-  # # _pages
+  _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
   - scope:
       path: "_pages"
       type: pages
