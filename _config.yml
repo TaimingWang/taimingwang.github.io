@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Taiming Wang
 email: taimingwang@ruc.edu.cn
-description: Taiming Wang's Homepage
+description: "Taiming Wang's Homepage"
 # twitter_username: username
 github_username: TaimingWang
 minimal_mistakes_skin: air #default
