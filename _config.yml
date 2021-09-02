@@ -66,9 +66,9 @@ author:
     - label: "Homepage"
       icon: "fas fa-fw fa-link"
       url: "https://taimingwang.github.io/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/TaimingWang/"
@@ -77,13 +77,13 @@ author:
       url: "mailto:taimingwang@ruc.edu.cn"
 
 footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/TaimingWang/"
+  # links:
+  #   - label: "Twitter"
+  #     icon: "fab fa-fw fa-twitter-square"
+  #     url: "https://twitter.com/"
+  #   - label: "GitHub"
+  #     icon: "fab fa-fw fa-github"
+  #     url: "https://github.com/TaimingWang/"
 
 
 defaults:
