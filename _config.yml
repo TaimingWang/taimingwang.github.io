@@ -58,7 +58,7 @@ plugins:
 
 author:
   name: "Taiming Wang"
-  avatar: "/assets/images/bio-photo.jpg"
+  avatar: "/assets/images/parrot.jpg"
   bio: "School of Economics, Renmin University of China."
   location: "Beijing, China"
   links:
@@ -81,9 +81,7 @@ author:
   #     icon: "fab fa-fw fa-github"
   #     url: "https://github.com/TaimingWang/"
 
-header:
-  image: /assets/images/xishanqingyuantu-2.jpg
-  image_description: 溪山清远
+
 
 defaults:
   # _posts
