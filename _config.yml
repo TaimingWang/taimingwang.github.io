@@ -81,9 +81,9 @@ author:
   #     icon: "fab fa-fw fa-github"
   #     url: "https://github.com/TaimingWang/"
 
-# header:
-#   image: /assets/images/xishanqingyuantu-2.jpg
-#   image_description: 溪山清远
+header:
+  image: /assets/images/xishanqingyuantu-2.jpg
+  image_description: 溪山清远
 
 defaults:
   # _posts
