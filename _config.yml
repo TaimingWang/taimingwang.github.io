@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 github_username: TaimingWang
 minimal_mistakes_skin: contrast #default is air
 search: false
-repository: "NWO/taimingwang.github.io"
+# repository: "NWO/taimingwang.github.io"
 # logo: "/assets/images/88x88.png"
 
 # Build settings
@@ -98,6 +98,7 @@ defaults:
       comments: false
       share: false
       related: false
+      classes: wide
       show_date: flase
   # _pages
   - scope:
