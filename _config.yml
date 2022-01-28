@@ -23,7 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 # twitter_username: username
 github_username: TaimingWang
 minimal_mistakes_skin: air #default is air, contrast, aqua
-search: false
+search: true
 # repository: "NWO/taimingwang.github.io"
 # logo: "/assets/images/logo.png"
 
@@ -34,8 +34,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
+timezone: 	Asia/Shanghai
 include:
   - _pages
 
@@ -55,8 +54,7 @@ url: "https://taimingwang.github.io"
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-#  - jekyll-gist
-#  - jekyll-katex
+  - jekyll-algolia
   - jemoji
   - jekyll-include-cache
 
@@ -117,11 +115,3 @@ tag_archive:
   path: /tags/
 atom_feed:
   hide: true
-  
- 
-# katex:
-#   js_path: "{{ Gem::lib_path }}/assets/js"  # Path used to search for katex.min.js
-#   rendering_options:
-#     # Default KaTeX rendering options. See https://github.com/Khan/KaTeX#rendering-options
-#     throw_error: true                       # throwOnError - set to false if you want rendering to output error as text rather than a build error
-#     error_color: "#cc0000"                  # errorColor

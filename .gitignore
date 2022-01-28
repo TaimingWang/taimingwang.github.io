@@ -14,7 +14,6 @@
 !*.min.css
 !*.pdf
 !*.jpg
-!*.tex
 !*.png
 !*Gemfile
 !*.yml
