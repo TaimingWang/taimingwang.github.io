@@ -7,7 +7,7 @@ main:
     url: /teaching/
   # - title: "Posts"
   #   url: /posts/
-  - title: "Blogs"
-    url: /Blogs/
+  - title: "Categories"
+    url: /categories/
   # - title: "Tags"
   #   url: /tags/
