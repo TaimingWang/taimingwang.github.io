@@ -25,7 +25,7 @@ github_username: TaimingWang
 minimal_mistakes_skin: air #default is air, contrast, aqua
 search: true
 # repository: "NWO/taimingwang.github.io"
-# logo: "/assets/images/logo.png"
+logo: "/assets/images/logo-tree.png"
 
 # Build settings
 markdown: kramdown
