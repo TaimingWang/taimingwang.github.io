@@ -9,12 +9,13 @@
 !*.html
 !.nojekyll
 !*.js
+!*.ico
 !*.svg
 !*.min.js
 !*.min.css
 !*.pdf
 !*.jpg
 !*.png
-!*Gemfile
+!Gemfile
 !*.yml
 !*/
