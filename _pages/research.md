@@ -9,4 +9,7 @@ Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad veli
 
 ## Published Works
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+- 李三希,王泰茗,刘小鲁.数据投资、数据共享与数据产权分配[J].经济研究, 2023, 58(07): 139-155.
+- 刘小鲁,王泰茗.数据要素市场中的确权与规制：研究综述[J].中国人民大学学报, 2022, 36(05): 92-105.
+- 李三希,王泰茗,武玙璠.数字经济的信息摩擦：信息经济学视角的分析[J].北京交通大学学报(社会科学版),2021, 20(04): 12-22.
+- 李三希,王泰茗.经济工程学派的开创者——2020年诺贝尔经济学奖得主Robert B. Wilson的贡献[J].中央财经大学学报, 2020(12): 134-139.
